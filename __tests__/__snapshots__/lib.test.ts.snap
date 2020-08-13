@@ -1,0 +1,276 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getPartnersWithinDistance Should filter partners within a certain amount of meters 1`] = `
+Array [
+  Partner {
+    "address": Object {
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "no": "149",
+      "street": "Venusstraat",
+    },
+    "distanceToWebbioOffice": 3479.94616785502,
+    "geoLocation": Object {
+      "lat": 51.8364451,
+      "lon": 5.8280268,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Alpite",
+  },
+  Partner {
+    "address": Object {
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "no": "164",
+      "street": "Waldeck Pyrmontsingel",
+    },
+    "distanceToWebbioOffice": 837.1351689415125,
+    "geoLocation": Object {
+      "lat": 51.8406408,
+      "lon": 5.866327699999999,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Wiredix",
+  },
+]
+`;
+
+exports[`getPartnersWithinDistance Should filter partners within a certain amount of meters 2`] = `
+Array [
+  Partner {
+    "address": Object {
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "no": "149",
+      "street": "Venusstraat",
+    },
+    "distanceToWebbioOffice": 3479.94616785502,
+    "geoLocation": Object {
+      "lat": 51.8364451,
+      "lon": 5.8280268,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Alpite",
+  },
+  Partner {
+    "address": Object {
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "no": "164",
+      "street": "Waldeck Pyrmontsingel",
+    },
+    "distanceToWebbioOffice": 837.1351689415125,
+    "geoLocation": Object {
+      "lat": 51.8406408,
+      "lon": 5.866327699999999,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Wiredix",
+  },
+]
+`;
+
+exports[`getPartnersWithinDistance Should filter partners within a certain amount of meters 3`] = `
+Array [
+  Partner {
+    "address": Object {
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "no": "149",
+      "street": "Venusstraat",
+    },
+    "distanceToWebbioOffice": 3479.94616785502,
+    "geoLocation": Object {
+      "lat": 51.8364451,
+      "lon": 5.8280268,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Alpite",
+  },
+  Partner {
+    "address": Object {
+      "city": "Leusden",
+      "country": "The Netherlands",
+      "no": "84",
+      "street": "Vogelwikke",
+    },
+    "distanceToWebbioOffice": 44822.854480770475,
+    "geoLocation": Object {
+      "lat": 52.1390782,
+      "lon": 5.4413952,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Angelico",
+  },
+  Partner {
+    "address": Object {
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "no": "164",
+      "street": "Waldeck Pyrmontsingel",
+    },
+    "distanceToWebbioOffice": 837.1351689415125,
+    "geoLocation": Object {
+      "lat": 51.8406408,
+      "lon": 5.866327699999999,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Wiredix",
+  },
+]
+`;
+
+exports[`getPartnersWithinDistance Should filter partners within a certain amount of meters 4`] = `
+Array [
+  Partner {
+    "address": Object {
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "no": "149",
+      "street": "Venusstraat",
+    },
+    "distanceToWebbioOffice": 3479.94616785502,
+    "geoLocation": Object {
+      "lat": 51.8364451,
+      "lon": 5.8280268,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Alpite",
+  },
+  Partner {
+    "address": Object {
+      "city": "Leusden",
+      "country": "The Netherlands",
+      "no": "84",
+      "street": "Vogelwikke",
+    },
+    "distanceToWebbioOffice": 44822.854480770475,
+    "geoLocation": Object {
+      "lat": 52.1390782,
+      "lon": 5.4413952,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Angelico",
+  },
+  Partner {
+    "address": Object {
+      "city": "Utrecht",
+      "country": "The Netherlands",
+      "no": "39",
+      "street": "Zwarte Woud",
+    },
+    "distanceToWebbioOffice": 56332.42878904909,
+    "geoLocation": Object {
+      "lat": 52.0643559,
+      "lon": 5.1427641,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Herbtechs",
+  },
+  Partner {
+    "address": Object {
+      "city": "Tilburg",
+      "country": "The Netherlands",
+      "no": "171",
+      "street": "Treubstraat",
+    },
+    "distanceToWebbioOffice": 64605.55611778703,
+    "geoLocation": Object {
+      "lat": 51.5660039,
+      "lon": 5.052448,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Phantomedia",
+  },
+  Partner {
+    "address": Object {
+      "city": "Lichtenvoorde",
+      "country": "The Netherlands",
+      "no": "9",
+      "street": "Tongerlosestraat",
+    },
+    "distanceToWebbioOffice": 50624.59162679687,
+    "geoLocation": Object {
+      "lat": 51.98458189999999,
+      "lon": 6.5770975,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Shadoworks",
+  },
+  Partner {
+    "address": Object {
+      "city": "Enschede",
+      "country": "The Netherlands",
+      "no": "185",
+      "street": "Hagmolenbeekweg",
+    },
+    "distanceToWebbioOffice": 73361.44989973035,
+    "geoLocation": Object {
+      "lat": 52.16925149999999,
+      "lon": 6.805305,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Wavetech",
+  },
+  Partner {
+    "address": Object {
+      "city": "Hilversum",
+      "country": "The Netherlands",
+      "no": "112",
+      "street": "Van der Duyn van Maasdamstraat",
+    },
+    "distanceToWebbioOffice": 64648.627331149335,
+    "geoLocation": Object {
+      "lat": 52.2140381,
+      "lon": 5.1569519,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Wavigations",
+  },
+  Partner {
+    "address": Object {
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "no": "164",
+      "street": "Waldeck Pyrmontsingel",
+    },
+    "distanceToWebbioOffice": 837.1351689415125,
+    "geoLocation": Object {
+      "lat": 51.8406408,
+      "lon": 5.866327699999999,
+    },
+    "googleClient": Client {
+      "axiosInstance": [Function],
+    },
+    "name": "Wiredix",
+  },
+]
+`;

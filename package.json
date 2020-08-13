@@ -1,0 +1,34 @@
+{
+  "name": "webbio-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node app.ts",
+    "test": "jest --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CherryNerd/webbio-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CherryNerd/webbio-test/issues"
+  },
+  "homepage": "https://github.com/CherryNerd/webbio-test#readme",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.1.6",
+    "geolocation-utils": "^1.2.3",
+    "jest": "^26.4.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-typescript": "^7.10.4",
+    "@types/jest": "^26.0.9",
+    "babel-jest": "^26.3.0"
+  }
+}
